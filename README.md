@@ -1,2 +1,1 @@
-Since I can't code for shit, this is how I waste my time:
-<a href="https://linktr.ee/Azathothas"> <img src="https://user-images.githubusercontent.com/58171889/165875899-c3f07a33-bbe1-46d8-ace3-4750319f172a.jpg" title="Whereabouts"> <a/>
+<a href="https://linktr.ee/Azathothas"> <img src="https://github.com/Azathothas/Azathothas/assets/58171889/0cf1d2aa-7495-4cfc-9b5f-12a5db46ebc2" title="Whereabouts"> <a/>
