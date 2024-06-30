@@ -3,7 +3,7 @@
 -->
 
 <p align="justify">
-    <a href="https://github.com/Azathothas/Arsenal">
+    <a href="https://github.com/Azathothas">
         <img src="https://github.com/Azathothas/Azathothas/assets/58171889/2f94d275-27ef-4d0c-b68c-5759fc6fa2e4" width="500"></a>
     <br>
   <!---
