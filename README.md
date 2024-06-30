@@ -11,9 +11,9 @@
   -->  
 <div style="text-align: justify;">
     <ul style="list-style-type: none; padding: 0; display: inline-block; text-align: justify;">
-        <li>📔 <a href="https://ajam.dev"><code>Blog</code></a> ➼ <a href="https://ajam.dev"><code>https://ajam.dev</code></a></li>
-        <li>🗂️ <a href="https://ajam.dev/projects"><code>Projects</code></a> ➼ <a href="https://ajam.dev/projects"><code>https://ajam.dev/projects</code></a></li>
-        <li>📬 <a href="https://ajam.dev/contact"><code>Contact Me</code></a> ➼ <a href="https://ajam.dev/contact"><code>https://ajam.dev/contact</code></a></li>
+        <li>📔 <a href="https://ajam.dev"><code>Blog</code></a> <code>➼</code> <a href="https://ajam.dev"><code>https://ajam.dev</code></a></li>
+        <li>🗂️ <a href="https://ajam.dev/projects"><code>Projects</code></a> <code>➼</code> <a href="https://ajam.dev/projects"><code>https://ajam.dev/projects</code></a></li>
+        <li>📬 <a href="https://ajam.dev/contact"><code>Contact Me</code></a> <code>➼</code> <a href="https://ajam.dev/contact"><code>https://ajam.dev/contact</code></a></li>
     </ul>
 </div>
 </p>
