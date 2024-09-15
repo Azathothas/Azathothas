@@ -14,6 +14,7 @@
         <li>📔 <a href="https://ajam.dev"><code>Blog</code></a> <code>➼</code> <a href="https://ajam.dev"><code>https://ajam.dev</code></a></li>
         <li>🗂️ <a href="https://ajam.dev/projects"><code>Projects</code></a> <code>➼</code> <a href="https://ajam.dev/projects"><code>https://ajam.dev/projects</code></a></li>
         <li>📬 <a href="https://ajam.dev/contact"><code>Contact Me</code></a> <code>➼</code> <a href="https://ajam.dev/contact"><code>https://ajam.dev/contact</code></a></li>
+        <li>💬 <a href="https://t.me/official_loonix"><code>Loonix (CHAT) </code></a> <code>➼</code> <a href="https://t.me/official_loonix"><code>https://t.me/official_loonix</code></a></li>
     </ul>
 </div>
 </p>
