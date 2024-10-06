@@ -14,7 +14,8 @@
         <li>📔 <a href="https://ajam.dev"><code>Blog</code></a> <code>➼</code> <a href="https://ajam.dev"><code>https://ajam.dev</code></a></li>
         <li>🗂️ <a href="https://ajam.dev/projects"><code>Projects</code></a> <code>➼</code> <a href="https://ajam.dev/projects"><code>https://ajam.dev/projects</code></a></li>
         <li>📬 <a href="https://ajam.dev/contact"><code>Contact Me</code></a> <code>➼</code> <a href="https://ajam.dev/contact"><code>https://ajam.dev/contact</code></a></li>
-        <li>💬 <a href="https://t.me/official_loonix"><code>Loonix (CHAT) </code></a> <code>➼</code> <a href="https://t.me/official_loonix"><code>https://t.me/official_loonix</code></a></li>
+        <li><a href="https://t.me/official_loonix"><img src="https://github.com/user-attachments/assets/2edc90b9-606e-4bfc-89f3-2a758b2f0377" width="18" height="18"><code>Loonix (CHAT) Telegram </code></a> <code>➼</code> <a href="https://t.me/official_loonix"><code>https://t.me/official_loonix</code></a></li>
+        <li><a href="https://matrix.to/#/#loonix:matrix.org"><img src="https://github.com/user-attachments/assets/1dcd4a64-2fec-4f4f-926a-e61313b6b646" width="18" height="18"><code>Loonix (CHAT) Matrix </code></a> <code>➼</code> <a href="https://matrix.to/#/#loonix:matrix.org"><code>https://matrix.to/#/#loonix:matrix.org</code></a></li>
     </ul>
 </div>
 </p>
